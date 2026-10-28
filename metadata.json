@@ -1,0 +1,8 @@
+{
+  "name": "SI-TABUNGAN: Sistem Tabungan Siswa & Apps Script Backend",
+  "description": "Sistem informasi manajemen tabungan siswa terintegrasi dengan Google Sheets & Google Apps Script API, pencatatan setoran, penarikan, laporan mutasi, dan audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
